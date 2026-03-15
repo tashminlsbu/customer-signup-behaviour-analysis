@@ -1,4 +1,6 @@
 # Customer Sign-Up Behaviour & Data Quality Audit
+A data analysis project examining SaaS customer sign-up behaviour, acquisition channels, and subscription preferences using Python and Pandas.
+The project performs a data quality audit and generates insights to support marketing and onboarding decisions.
 
 ## Project Overview
 
