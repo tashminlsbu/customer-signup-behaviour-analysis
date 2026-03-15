@@ -9,3 +9,5 @@
 
 ### Weekly Sign-Up Trend
 ![Weekly Trend](visuals/weekly_signup_trend.png)
+
+![Test](visuals/signup_sources_chart.png)
